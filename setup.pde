@@ -1,0 +1,30 @@
+void imagen () {
+  ima1 = loadImage("ima1.jpg");
+  ima2 = loadImage("ima2.jpg");
+  ima3 = loadImage("ima3.jpg");
+  ima4 = loadImage("ima4.jpg");
+  ima5 = loadImage("ima5.jpg");
+  ima6 = loadImage("ima6.jpg");
+  ima7 = loadImage("ima7.jpg");
+  ima8 = loadImage("ima8.jpg");
+  ima9 = loadImage("ima9.jpg");
+  ima10 = loadImage("ima10.jpg");
+  ima11 = loadImage("ima11.jpg");
+  ima12 = loadImage("ima12.jpg");
+  ima13 = loadImage("ima13.jpg");
+  ima14 = loadImage("ima14.jpg");
+  ima15 = loadImage("ima15.jpg");
+  ima16 = loadImage("ima16.jpg");
+  ima17 = loadImage("ima17.jpg");
+  ima18 = loadImage("ima18.jpg");
+  ima19 = loadImage("ima19.jpg");
+  ima20 = loadImage("ima20.jpg");
+  wis = loadImage("whisky.png");
+  kat = loadImage("katanaa.png");
+  cereal = loadImage("cereal.png");
+  letra = loadFont ( "letra.vlw");
+  posx = random(0, width-100); 
+  posy = random(0, height-100);
+  dirx = random(-3, 3); 
+  diry = random(-3, 3);
+}
